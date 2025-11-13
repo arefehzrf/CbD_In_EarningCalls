@@ -11,3 +11,13 @@ openai_api_key.txt
 
 # Misc
 *.log
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+data/
+*.egg-info/
+
