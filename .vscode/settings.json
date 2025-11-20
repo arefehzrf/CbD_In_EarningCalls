@@ -1,5 +1,5 @@
 {
-  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
+  "python.defaultInterpreterPath": "C:/1_Projekte/quantum_cognition/.venv/Scripts/python.exe",
   "python.testing.pytestEnabled": true,
   "python.analysis.typeCheckingMode": "basic",
   "editor.formatOnSave": true,
@@ -13,6 +13,6 @@
   "files.exclude": {
     "**/__pycache__": true,
     "**/.pytest_cache": true,
-    ".venv": true
+    ".venv": false
   }
 }
